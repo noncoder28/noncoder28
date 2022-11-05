@@ -5,7 +5,7 @@
 
 I'm Mr.Niceguy, a beginner self-taught full stack web developer and a homelab enthusiast from Zuerich, Switzerland. My passion for software lies with dreaming up Start Up ideas and making them come true. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 Follow my Tech-Blog - Wirespice.com - for my latest projects <br />
 
